@@ -7,7 +7,7 @@ import { v4 as uuidv4 } from "uuid";
 
 // assets
 
-import img1 from "../../assets/portfolio1.jpg";
+import img1 from "../../assets/portfolio1.png";
 import img2 from "../../assets/portfolio2.jpg";
 import img3 from "../../assets/portfolio3.jpg";
 
@@ -15,16 +15,16 @@ const portfolioData = [
   {
     id: uuidv4(),
     image: img1,
-    title: "portfolio Item 1",
-    github: "https://github.com/project1",
-    demo: "https://demo1.com",
+    title: "portfolio",
+    github: "https://github.com/ahmedAlaa-webDev/portfolio.git",
+    demo: "https://celebrated-dodol-08bb14.netlify.app/",
   },
 
   {
     id: uuidv4(),
     image: img2,
-    title: "portfolio Item 2",
-    github: "https://github.com/project2",
+    title: "YoumioSeedViewer",
+    github: "https://github.com/ahmedAlaa-webDev/youmioSeedViewer.git",
     demo: "https://demo2.com",
   },
 

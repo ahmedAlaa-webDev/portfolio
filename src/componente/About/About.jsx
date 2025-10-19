@@ -38,12 +38,13 @@ function About() {
           <small>0+ worldwide</small>
           
         </div>
-        <div className="about_card">
+      
+        <a href="#projects"className="about_card ">
           <VscFolderLibrary />
           <h5>Projects</h5>
           <small>2+ comleted</small>
           
-        </div>
+        </a>
 
       </div>
 

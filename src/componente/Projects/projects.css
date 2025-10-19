@@ -16,6 +16,10 @@
 .portfolio_item_img{
     border-radius: 15px;
     overflow: hidden;
+    height: 250px;
+}
+.portfolio_item_img img{
+    height: 100%;
 }
 
 .portfolio_item h3{
