@@ -3,7 +3,7 @@ import "./home.css";
 
 // assets
 import my from "../../assets/me.png";
-import cv from "../../assets/cv.pdf";
+import cv from "../../assets/Ahmed_Alaa_CV.pdf";
  
 // icons
 import { FaLinkedin } from "react-icons/fa";
