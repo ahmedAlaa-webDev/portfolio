@@ -25,13 +25,13 @@ const portfolioData = [
     image: img2,
     title: "YoumioSeedViewer",
     github: "https://github.com/ahmedAlaa-webDev/youmioSeedViewer.git",
-    demo: "https://demo2.com",
+    demo: "https://youmioseedviewer.vercel.app/",
   },
 
   {
     id: uuidv4(),
     image: img3,
-    title: "portfolio Item 3",
+    title: "todoList",
     github: "https://github.com/project3",
     demo: "https://demo3.com",
   },
