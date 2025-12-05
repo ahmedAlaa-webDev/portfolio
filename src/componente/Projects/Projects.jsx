@@ -9,7 +9,7 @@ import { v4 as uuidv4 } from "uuid";
 
 import img1 from "../../assets/portfolio1.png";
 import img2 from "../../assets/portfolio2.jpg";
-import img3 from "../../assets/portfolio3.jpg";
+import img3 from "../../assets/portfolio3.png";
 
 const portfolioData = [
   {
