@@ -33,7 +33,7 @@ const portfolioData = [
     image: img3,
     title: "todoList",
     github: "https://github.com/project3",
-    demo: "https://demo3.com",
+    demo: "https://lambent-sprite-cf6500.netlify.app/",
   },
 ];
 
